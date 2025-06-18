@@ -1,0 +1,7 @@
+streamlit==1.35.0
+pandas
+openpyxl
+joblib
+scikit-learn
+streamlit-folium==0.14.0
+folium
